@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ConnectionPool"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQL"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ehcache"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-aop-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-aspects-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-beans-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-context-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-context-support-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-core-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-expression-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-instrument-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-jdbc-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-test-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-tx-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-web-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring-framework-3.2.5.RELEASE-dist/spring-framework-3.2.5.RELEASE/libs/spring-webmvc-3.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring补充包/aspectj-1.7.4/lib/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring补充包/aspectj-1.7.4/lib/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/spring补充包/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/Spring包/Spring包/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/struts-2.1.6-all/struts-2.1.6/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/struts-2.1.6-all/struts-2.1.6/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/jsoup-1.10.2.jar" sourcepath="E:/java马士兵/项目用jar包/jsoup-1.10.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/httpcomponents-client-4.2.5/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/httpcomponents-client-4.2.5/lib/fluent-hc-4.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/httpcomponents-client-4.2.5/lib/httpclient-cache-4.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/httpcomponents-client-4.2.5/lib/httpmime-4.2.5.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/javamelody.jar"/>
+	<classpathentry kind="lib" path="E:/java马士兵/项目用jar包/jrobin-1.5.9.1.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>

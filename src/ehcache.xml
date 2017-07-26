@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="ehcache.xsd"
+         updateCheck="false" monitoring="autodetect"
+         dynamicConfig="true">
+	
+	<diskStore path="java.io.tempdir" />  
+	
+	<!-- 通知提醒缓存配置 -->
+    <cache name="noticeCache"
+           maxElementsInMemory="1000"
+           eternal="true"
+           overflowToDisk="true"
+            />
+    
+    <!-- 文章内容缓存 -->
+    <cache name="articleCache"
+           maxElementsInMemory="1000"
+           eternal="false"
+           timeToIdleSeconds="600"  
+           timeToLiveSeconds="2000" 
+           overflowToDisk="false"
+            />
+            
+     <!-- 用户缓存 -->
+    <cache name="userCache"
+           maxElementsInMemory="1000"
+           eternal="false"
+           timeToIdleSeconds="600"  
+           timeToLiveSeconds="2000" 
+           overflowToDisk="false"
+            />
+    
+    <!-- 热门文章缓存配置 -->  
+    <cache name="hotArticleCache"
+           maxElementsInMemory="15"
+           eternal="true"
+           overflowToDisk="true"
+           diskSpoolBufferSizeMB="1"
+            />
+    
+     <!-- 类别板块缓存配置 -->        
+     <cache name="categoryCache"
+           maxElementsInMemory="15"
+           eternal="true"
+           overflowToDisk="true"
+           diskSpoolBufferSizeMB="1"
+            />
+</ehcache>
